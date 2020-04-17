@@ -8,4 +8,4 @@
 ![css-exaple](https://user-images.githubusercontent.com/33940202/79525350-0bf02480-8039-11ea-92b7-b4aa5abe6bd4.png)
 
 # Autor :man_technologist::
-Feito com :heart: **franciscojunior10** meu :point_righ: [Linkedin](https://www.linkedin.com/in/franciscojunior10/)
+Feito com :heart: **franciscojunior10** meu :point_right: [Linkedin](https://www.linkedin.com/in/franciscojunior10/)
